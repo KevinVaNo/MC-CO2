@@ -68,7 +68,7 @@ obtenidos, la mejor parte fue el compañerismo y equipo, es agradable conocer a 
 trabajar en equipo, que las ideas fluyeron y todos estuvimos de acuerdo, tambièn de esta manera se conocieron
 màs a fondo como utilizar los servicios de Azure en un entorno real.
 
-**Oskar Donis**
+**Oscar Donis Hernández**
 
 este summer hack, al ser el primero, iba un poco temeroso por no saber que encontrar en el, pero todo cambio 
 al entrar y pertenecer a un equipo entregado al proyecto que, dicho sea de paso, cumplió mis expectativas y 
