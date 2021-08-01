@@ -10,7 +10,7 @@
 
 **https://vm.tiktok.com/ZMdcwvWXo/**
 
-Cabe recalcar que debido a problemas con la conexión de la Raspberry fisica al bus service (la parte del enrutamiento, asi como realizar tareas de stream analytics con Python para leer los sensores y promediar valores (en el codigo ejemplo se usan dos valores analogicos) se hizo uso del simulador de Rasp visto en el curso; se cuenta con envio de Rasp fisica a Azure (se ve mediante la extension de Visual Studio).
+Cabe recalcar que debido a problemas con la conexión de la Raspberry fisica al bus service (la parte del enrutamiento, asi como realizar tareas de stream analytics con Python para leer los sensores y promediar valores (en el codigo ejemplo se usan dos valores analogicos)) se hizo uso del simulador de Rasp visto en el curso; se cuenta con envio de Rasp fisica a Azure (se ve mediante la extension de Visual Studio).
 
 ![Envio de dato a azure visto desde visual studio](https://github.com/PapiroX/CO2-meter/blob/main/Enviodato.png)
 
