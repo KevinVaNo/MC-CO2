@@ -76,5 +76,12 @@ puso mis conocimientos a prueba. ora parte muy interesante fueron los eventos no
 celebrando los días activos del hackaton, participé sin pena y como siempre la experiencia por delante. 
 viva innovaccion.
 
+**Raúl Suárez Viveros**
+
+Summer hack me permitió conocer mas allá de los límites que implica un concepto educativo a darme cuenta
+que realmente hay una visión de aplicación con la nube de azure que va más allá de un solo enfoque, y que 
+un proyecto abarca distintas disciplinas por lo que considero que es una experiencia que suma demasiado 
+a desarrollar otras habilidades.
+
 
 
