@@ -16,7 +16,7 @@
 |Azure Cosmos DB              |    99.999 %   |
 |Service Bus                  |     99.9 %    |
 |Notification Hubs            |     99.9 %    |
-|Azure Communication Services |    99.99% %   |
+|Azure Communication Services |    99.99%     |
 |Azure Logic Apps             |     99.9%     |
 |SLA COMPUESTO                |    99.58%     |
 
