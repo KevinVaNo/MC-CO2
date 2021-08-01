@@ -61,5 +61,12 @@ Este fue mi primer Hackathon, por lo que tenía mis dudas sobre participar y tem
 pero definitivamente me considero afortunado de ser parte de esta gran oportunidad, donde aprendí nuevas cosas 
 junto a mi equipo y, aún con ciertas complicaciones técnicas, logramos sacar a flote una gran idea.
 
+**Noè Alexaner Espinoza Gonzàlez**
+
+Es el primer evento de este tipo en dònde participo, se pudo complementar los conocimientos tenidos con los 
+obtenidos, la mejor parte fue el compañerismo y equipo, es agradable conocer a personas dedicadas y enfocadas,
+trabajar en equipo, que las ideas fluyeron y todos estuvimos de acuerdo, tambièn de esta manera se conocieron
+màs a fondo como utilizar los servicios de Azure en un entorno real.
+
 
 
