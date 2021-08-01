@@ -3,7 +3,7 @@
 *****************************************************************************************************************
 ### Descripción del Proyecto
 
-**MC-CO2** es un sistema de IoT basado en Azure dirigido a instituciones educativas y oficinas gubernamentales, que mediante un dispositivo situado en un espacio cerrado detecta los niveles de CO2 en el ambiente por medio de un sensor con el fin de alertar a una autoridad del lugar para que el área sea ventilada, despejada o desinfectada.
+**MC-CO2** es un sistema de IoT basado en Azure dirigido a instituciones educativas y oficinas gubernamentales, que mediante un dispositivo situado en un espacio cerrado detecta los niveles de CO2 en el ambiente por medio de un sensor con el fin de alertar a una autoridad del lugar para que el área sea ventilada, despejada o desinfectada y asì prevenir el contagio con el virus COVID-19.
 
 *****************************************************************************************************************
 ### Link al Tiktok
