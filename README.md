@@ -21,9 +21,9 @@
 |Service Bus                  |     99.9 %    |
 |Notification Hubs            |     99.9 %    |
 |Azure Logic Apps             |     99.9 %    |
-|SLA COMPUESTO                |    99.58 %    |
+|SLA COMPUESTO                |    99.59 %    |
 
-SLA compuesto = 99.9 % x 99.999 % x 99.9 % x 99.9 % x 99.9% = 99.58 %
+SLA compuesto = 99.9 % x 99.999 % x 99.9 % x 99.9 % x 99.9% = 99.59 %
 
 *****************************************************************************************************************
 ### TCO 3 años y Precio Total por mes
