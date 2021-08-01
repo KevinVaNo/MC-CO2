@@ -1,9 +1,9 @@
-# Nombre del Proyecto : M-CO2
+# Nombre del Proyecto : MC-CO2
 
 *****************************************************************************************************************
-### Descripción del Proyecto a Entregar (Corta)
+### Descripción del Proyecto
 
-**M-CO2** es un sistema de IoT basado en Azure dirigido a instituciones educativas y oficinas gubernamentales, que mediante un dispositivo situado en un espacio cerrado detecta los niveles de CO2 en el ambiente por medio de un sensor con el fin de alertar a una autoridad del lugar para que el área sea ventilada, despejada o desinfectada.
+**MC-CO2** es un sistema de IoT basado en Azure dirigido a instituciones educativas y oficinas gubernamentales, que mediante un dispositivo situado en un espacio cerrado detecta los niveles de CO2 en el ambiente por medio de un sensor con el fin de alertar a una autoridad del lugar para que el área sea ventilada, despejada o desinfectada.
 
 *****************************************************************************************************************
 ### Link al Tiktok
@@ -47,9 +47,18 @@ FORMULA: Tiempo de NO DISPONIBILIDAD = tiempo * (1 - SLA)
 *****************************************************************************************************************
 ### Qué te pareció el evento
 
-Mejía Trujillo Mario Alberto. :D
+**Mejía Trujillo Mario Alberto** :D
 
 Me llevo una muy grata sorpresa por parte de innovaccion pues, rompiendo esa barrera donde el conocimiento se 
 queda en las lineas "científicas", llega a tik tok como un regalo del cielo a aventarme muchisima informacion 
 con la cual me dotan de conocimientos para aprobar una certificacion muy enfocada en mi carrera. me fascinó la
 clase y guia del sherpa José, la convivencia del teams y sobre todo las practicas, que dificiles, divertidas.
+
+**Vasquez Nogueda Kevin**🍄
+
+Este fue mi primer Hackathon, por lo que tenía mis dudas sobre participar y temía salir de mi área de comfort 
+pero definitivamente me considero afortunado de ser parte de esta gran oportunidad, donde aprendí nuevas cosas 
+junto a mi equipo y, aún con ciertas complicaciones técnicas, logramos sacar a flote una gran idea.
+
+
+
