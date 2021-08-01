@@ -16,6 +16,7 @@ Cabe recalcar que debido a problemas con la conexión de la Raspberry fisica al 
 
 *****************************************************************************************************************
 ### Diagrama de Azure
+![Diagrama Azure](https://user-images.githubusercontent.com/86867751/127775093-c44169a1-8b43-4d11-b8da-0345a3d00a0a.png)
 
 *****************************************************************************************************************
 ### SLA Compuesto
