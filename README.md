@@ -17,13 +17,12 @@
 |          **Recurso**        |     **SLA**   |
 |          :----:             |     :----:    |
 |Azure IoT Hub                |     99.9 %    |
-|Azure Cosmos DB              |    99.999 %   |
 |Service Bus                  |     99.9 %    |
 |Notification Hubs            |     99.9 %    |
 |Azure Logic Apps             |     99.9 %    |
-|SLA COMPUESTO                |    99.59 %    |
+|SLA COMPUESTO                |    99.60 %    |
 
-SLA compuesto = 99.9 % x 99.999 % x 99.9 % x 99.9 % x 99.9% = 99.59 %
+SLA compuesto = 99.9 % x 99.9 % x 99.9 % x 99.9% = 99.60 %
 
 *****************************************************************************************************************
 ### TCO 3 años y Precio Total por mes
