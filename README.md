@@ -1,9 +1,9 @@
-![Summer Hack (4)](https://user-images.githubusercontent.com/9124597/127756851-c8627116-f177-4198-966d-9003016d2060.png)
-
 # Nombre del Proyecto : M-CO2
 
 *****************************************************************************************************************
 ### Descripción del Proyecto a Entregar (Corta)
+
+**M-CO2** es un sistema de IoT basado en Azure dirigido a instituciones educativas y oficinas gubernamentales, que mediante un dispositivo situado en un espacio cerrado detecta los niveles de CO2 en el ambiente por medio de un sensor con el fin de alertar a una autoridad del lugar para que el área sea ventilada, despejada o desinfectada.
 
 *****************************************************************************************************************
 ### Link al Tiktok
