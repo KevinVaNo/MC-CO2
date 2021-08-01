@@ -10,7 +10,7 @@
 
 ### SLA Compuesto
 
-|          Recurso            |      SLA      |
+|          **Recurso**        |     **SLA**   |
 |          :----:             |     :----:    |
 |Azure IoT Hub                |     99.9 %    |
 |Azure Cosmos DB              |    99.999 %   |
