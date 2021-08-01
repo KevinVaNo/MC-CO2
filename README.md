@@ -37,8 +37,8 @@ FORMULA: Tiempo de NO DISPONIBILIDAD = tiempo * (1 - SLA)
 *****************************************************************************************************************
 ### Qué te pareció el evento
 
-Mejía Trujillo Mario Alberto.
+Mejía Trujillo Mario Alberto. :D
 Me llevo una muy grata sorpresa por parte de innovaccion pues, rompiendo esa barrera donde el conocimiento se 
 queda en las lineas "científicas", llega a tik tok como un regalo del cielo a aventarme muchisima informacion 
-con la cual me dotan de conocimientos para aprobar una certificaion muy enfocada en mi carrera y que llenará
-no lo de 
+con la cual me dotan de conocimientos para aprobar una certificacion muy enfocada en mi carrera. me fascinó la
+clase y guia del sherpa José, la convivencia del teams y sobre todo las practicas, que dificiles, divertidas.
