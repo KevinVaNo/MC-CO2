@@ -8,6 +8,11 @@
 *****************************************************************************************************************
 ### Link al Tiktok
 
+**https://vm.tiktok.com/ZMdcwvWXo/**
+
+Cabe recalcar que debido a probelmas con la conexion de la rasp fisica al bus service (la parte del enrutamiento, asi como realizar tarea de stream analytics con codigo escrito en python para leer los sensores y promediar valores (en el codigo ejemplo se usan dos valores analogicos)) se hizo uso del simulador de rasp visto en el curso; se cuenta con envio de rasp fisica a azure (se ve mediante la extension de Visual Studio).
+
+
 *****************************************************************************************************************
 ### Diagrama de Azure
 
