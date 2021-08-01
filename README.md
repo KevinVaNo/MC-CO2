@@ -28,6 +28,11 @@ SLA compuesto = 99.9 % x 99.999 % x 99.9 % x 99.9 % x 99.9% = 99.59 %
 *****************************************************************************************************************
 ### TCO 3 años y Precio Total por mes
 
+![TCO](https://user-images.githubusercontent.com/87109811/127764517-8bce13a2-31e4-4654-acc7-441fa747f498.jpg)
+![tco2](https://user-images.githubusercontent.com/87109811/127764555-57756c82-d633-40fb-a55f-d365da002429.jpg)
+![tco3](https://user-images.githubusercontent.com/87109811/127764599-42ce59a8-6e05-4158-9358-374d94c149c8.jpg)
+
+
 *****************************************************************************************************************
 ### Tiempo sin disponibilidad a un año
 
