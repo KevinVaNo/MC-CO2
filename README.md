@@ -81,7 +81,7 @@ viva innovaccion.
 Summer hack me permitió conocer mas allá de los límites que implica un concepto educativo a darme cuenta
 que realmente hay una visión de aplicación con la nube de azure que va más allá de un solo enfoque, y que 
 un proyecto abarca distintas disciplinas por lo que considero que es una experiencia que suma demasiado 
-a desarrollar otras habilidades.
+a desarrollar otras habilidadedes posteriores para crecer fuera de una zona de comfort.
 
 
 
